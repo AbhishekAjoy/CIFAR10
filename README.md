@@ -1,4 +1,4 @@
 # CIFAR10
-Deep learning program which uses CIFAR10 dataset.
+A program that classifies images using CIFAR 10 dataset.
 
 https://www.cs.toronto.edu/~kriz/cifar.html
